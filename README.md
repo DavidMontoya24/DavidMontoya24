@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://i.ibb.co/H7shbWn/name-Mesa-de-trabajo-1.png" width="400"/>
-  <h1> Full Stack Web Developer based in Lima, Peru </h1>
+  <h2> Full Stack Web Developer based in Lima, Peru </h2>
 </div>
 
 - 👋 Hi there! I'm glad you're visiting my profile
