@@ -4,11 +4,22 @@
   <img src="https://img.shields.io/github/followers/DavidMontoya24?color=blue&label=GitHub&logoColor=blue&style=social">
 </div>
 
-- 👋 Hi there! I'm glad you're visiting my profile
-- 🌱 My stack : Ruby, RubyonRails, Javascript, React
-- 🔭 I’m currently studying at Codeable
-- 📫 How to reach me: email me at davidmontoya.dev@gmail.com 
-- 📐 Architecture lover 
+<!-- A little bio         |  Some Stats
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
+
+<div style="display:flex;">
+  <div style="width:100px;">
+    <h4>👋 Hi there! I'm David and i'm glad you're visiting my profile</h4>
+    <h4>🌱 My stack : Ruby, RubyonRails, Javascript, React</h4>
+    <h4>🔭 I’m currently studying at Codeable</h4>
+    <h4>📫 How to reach me: email me at davidmontoya.dev@gmail.com</h4>
+    <h4>📐 Architecture lover</h4>
+  </div>
+  <p float="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=DavidMontoya24&show_icons=true&theme=tokyonight" />
+  </p>
+</div>
 
 ### Dev Skills
 <p align="center">
@@ -23,6 +34,7 @@
     <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae" />
   </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMontoya24)](https://github.com/anuraghazra/github-readme-stats)
-<div>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</div>
+
+
+
 
