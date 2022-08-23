@@ -2,7 +2,7 @@
   <img align="center" width="800" src="https://i.ibb.co/H7shbWn/name-Mesa-de-trabajo-1.png" width="400"/>
   <h2> Full Stack Web Developer based in Lima, Peru </h2>
   <img src="https://img.shields.io/github/followers/DavidMontoya24?color=blue&label=GitHub&logoColor=blue&style=social">
-  <img align="right" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
+  <img align="right" width="350" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 </div>
 
 <!-- A little bio         |  Some Stats
