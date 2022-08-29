@@ -26,7 +26,7 @@
 ### Dev Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,react,javascript,rails,postgresql,html,css"/>
+    <img src="https://skillicons.dev/icons?i=ruby,react,javascript,rails,postgresql,html,css,git"/>
   </a>
 </p>
 
