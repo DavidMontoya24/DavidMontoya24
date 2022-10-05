@@ -13,7 +13,7 @@
   <div style="width:100px;">
     <h4>👋 Hi there! I'm David and i'm glad you're visiting my profile</h4>
     <h4>🌱 My stack :  ⚛ JavaScript + React</h4>  | 💎 Ruby + Rails 
-    <h4>🔭 I’m currently studying at Codeable</h4>
+    <h4>🔭 I’m currently studying Python</h4>
     <h4>📫 How to reach me: email me at davidmontoya.dev@gmail.com</h4>
     <h4>📐 Architecture lover</h4>
   </div>
