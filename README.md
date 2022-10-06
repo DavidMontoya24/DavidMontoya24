@@ -19,9 +19,6 @@
     <h4>📐 Architecture lover</h4>
   </div>
   <br>
-  <p float="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=DavidMontoya24&show_icons=true&theme=tokyonight" />
-  </p>
 </div>
 
 ### Dev Skills
