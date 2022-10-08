@@ -11,14 +11,14 @@
 ![](https://...Dark.png)  |  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
 
 <div style="display:flex;">
-  <div style="width:100px;">
-    <h4>👋 Hi there! I'm David and i'm glad you're visiting my profile</h4>
-    <h4>🌱 My stack :  ⚛ JavaScript + React</h4>  | 💎 Ruby + Rails </h4>
-    <h4>💼 Web portafolio and latest projects in : <a href="https://personal-website-pi-mocha.vercel.app/" target="_blank">www.davidmontoya.com</a></h4>
-    <h4>🔭 I’m currently studying Python</h4>
-    <h4>📫 How to reach me: aaronmontoya360@gmail.com | davidmontoya.dev@gmail.com</h4>
-    <h4>📐 Architecture lover</h4>
-  </div>
+  <ul style="width:100px;">
+    <li>👋 Hi there! I'm David and i'm glad you're visiting my profile</li>
+    <li>🌱 My stack :  ⚛ JavaScript + React</h4>  | 💎 Ruby + Rails </li>
+    <li>💼 Web portafolio and latest projects in : <a href="https://personal-website-pi-mocha.vercel.app/" target="_blank">www.davidmontoya.com</a></li>
+    <li>🔭 I’m currently studying Python</li>
+    <li>📫 How to reach me: aaronmontoya360@gmail.com | davidmontoya.dev@gmail.com</li>
+    <li>📐 Architecture lover</li>
+  </ul>
   <br>
 </div>
 
