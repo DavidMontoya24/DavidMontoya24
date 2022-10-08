@@ -16,7 +16,7 @@
     <h4>🌱 My stack :  ⚛ JavaScript + React</h4>  | 💎 Ruby + Rails </h4>
     <h4>💼 Web portafolio and latest projects in : <a href="https://personal-website-pi-mocha.vercel.app/" target="_blank">www.davidmontoya.com</a></h4>
     <h4>🔭 I’m currently studying Python</h4>
-    <h4>📫 How to reach me: email me at davidmontoya.dev@gmail.com</h4>
+    <h4>📫 How to reach me: aaronmontoya360@gmail.com | davidmontoya.dev@gmail.com</h4>
     <h4>📐 Architecture lover</h4>
   </div>
   <br>
