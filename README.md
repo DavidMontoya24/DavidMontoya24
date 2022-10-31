@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img align="center" width="600" src="https://i.ibb.co/H7shbWn/name-Mesa-de-trabajo-1.png" width="400"/>
+  <img align="center" src="https://i.ibb.co/YXmbt3q/my-name-02.png" />
   <div><a href="https://personal-website-pi-mocha.vercel.app/" target="_blank">www.davidmontoya.com</a></div>
   <h2> Full Stack Web Developer based in Lima, Peru </h2>
   <img src="https://img.shields.io/github/followers/DavidMontoya24?color=blue&label=GitHub&logoColor=blue&style=social">
