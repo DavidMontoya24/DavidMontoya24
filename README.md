@@ -15,7 +15,7 @@
     <li>👋 Hi there! I'm David and i'm glad you're visiting my profile</li>
     <li>🌱 My stack :  ⚛ JavaScript + React</h4>  | 💎 Ruby + Rails </li>
     <li>💼 Web portafolio and latest projects in : <a href="https://personal-website-pi-mocha.vercel.app/" target="_blank">www.davidmontoya.com</a></li>
-    <li>🔭 I’m currently studying Python</li>
+    <li>🔭 I’m currently studying TypesScript and Python</li>
     <li>📫 How to reach me: aaronmontoya360@gmail.com | davidmontoya.dev@gmail.com</li>
     <li>📐 Architecture lover</li>
   </ul>
