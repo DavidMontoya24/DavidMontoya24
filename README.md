@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img align="center" src="https://i.ibb.co/YXmbt3q/my-name-02.png" />
-  <div><a href="https://personal-website-pi-mocha.vercel.app/" target="_blank">www.davidmontoya.com</a></div>
+  <div><a href="https://personal-website-pi-mocha.vercel.app/" target="_blank"><h3>www.davidmontoya.com</h3></a></div>
   <h2> Full Stack Web Developer based in Lima, Peru </h2>
   <img src="https://img.shields.io/github/followers/DavidMontoya24?color=blue&label=GitHub&logoColor=blue&style=social">
-  <img align="right" width="300" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
+  <img align="right" width="250" src="https://i.ibb.co/qJ66Krq/3255338.png">
 </div>
 
 <!-- A little bio         |  Some Stats
