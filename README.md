@@ -17,7 +17,7 @@
     <li>💼 Web portafolio and latest projects in : <a href="https://personal-website-pi-mocha.vercel.app/" target="_blank">www.davidmontoya.com</a></li>
     <li>🔭 I’m currently studying TypesScript and Python</li>
     <li>📫 How to reach me: aaronmontoya360@gmail.com | davidmontoya.dev@gmail.com</li>
-    <li>📐 Architecture lover</li>
+    <li>📐 Design lover</li>
   </ul>
   <br>
 </div>
